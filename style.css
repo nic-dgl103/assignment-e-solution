@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: antiquewhite;
+}
+
+html {
+    /* 62.5% of 16px browser font size is 10px */
+    font-size: 62.5%;
+}
+body{
+    margin: 0 auto;
+    max-width: 90%;
+    font-size: 1.6rem;
+  }
+  figure{
+    display: block;
+    text-align:center;
+  }
+  img{
+    max-width: 70%;
+  }
+  h2{
+    background-color: khaki;
+    padding: 5px;
+  }
+  .evaluation {
+    background-color: hsl(0, 0%, 100%);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+ .problem-solution{
+    background-color: hsl(0, 0%, 100%);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ }
+ .summary{
+  background-color: hsl(0, 0%, 100%);
+  margin: 10px;
+  padding: 1px 10px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+h3{
+  border: 3px solid khaki;
+  display: inline-block;
+}
